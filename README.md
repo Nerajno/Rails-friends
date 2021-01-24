@@ -10,3 +10,5 @@
 - [ ] Users should be able to edit friends to the friends list.
 - [ ] Users should be able to delete friends to the friends list.
 - [ ] This should be live hosted on Heroku.
+- [ ] Update this ReadMe to basic standards. 
+- [ ] Complete blog to explain process of creation and why.  
